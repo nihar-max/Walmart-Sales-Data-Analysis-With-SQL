@@ -51,12 +51,19 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 ## Business Questions To Answer
 
 1.How many unique product lines does the data have?
+
 2.What is the most common payment method?
+
 3.What is the most selling product line?
+
 4.Number of sales made in each time of the day per weekday?
+
 5.Which of the customer types brings the most revenue?
+
 6.What is the most common customer type?
+
 7.What is the gender of most of the customers?
+
 8.Which customer type buys the most?
 
 
